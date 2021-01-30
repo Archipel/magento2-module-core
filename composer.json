@@ -5,7 +5,7 @@
         "PHPCuong Core module for Magento 2"
     ],
     "require": {
-        "php": "^5.6.0|^7.0|^8.0",
+        "php": "^5.6.0|^7.0|^8.0"
     },
     "type": "magento2-module",
     "version": "2.2.0.4",
